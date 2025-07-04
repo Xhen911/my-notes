@@ -47,3 +47,14 @@ date: 2025-07-04           # 可省；写了方便以后按日期排序
 - Pines, Bohm. *A Collective Description of Electron Interactions* (Phys. Rev. 1952)  
 - Maier. *Plasmonics: Fundamentals and Applications* (Springer 2007)
 
+<!-- 可选：告诉 MathJax 我们要用 $...$ 做行内定界符 -->
+<script>
+  window.MathJax = {
+    tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}
+  };
+</script>
+
+<!-- 真正加载 MathJax v3（官方 CDN） -->
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
