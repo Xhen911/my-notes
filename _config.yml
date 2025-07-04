@@ -1,0 +1,6 @@
+theme: jekyll-theme-minimal     # GitHub Pages 白名单主题，零依赖:contentReference[oaicite:1]{index=1}
+title: 我的笔记
+description: 随手记录 & 学习痕迹
+# url: "https://xhen911.github.io"         # 用户主页仓库才需要
+# baseurl: "/my-notes"                     # 若是项目仓库，保留即可让链接正确
+# show_excerpts: true                      # 开启首页摘要
