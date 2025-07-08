@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Four-Axis Frequency-Wavenumber Chart</title>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <style>
+    body { font-family: sans-serif; text-align: center; }
+    #plot { width: 90%; height: 90vh; margin: auto; }
+  </style>
+</head>
+<body>
+  <h2>Frequency vs Wavenumber (with Energy and Wavelength)</h2>
+  <div id="plot"></div>
+
+  <script>
+    const c = 2.99792458e10; // speed of light in cm/s
+    const h = 6.62607015e-34; // Planck constant (J·s)
+    const eV = 1.602176634e-19; // 1 eV in J
+
+    // Define wave number in cm⁻¹
+    const waveNumbers = Array.from({length: 100}, (_, i) => 10 ** (1 + i * 0.05)); // 10¹ to 10⁵ cm⁻¹
+
+    // Frequency in Hz: ν = c·k
+    const frequencies = waveNumbers.map(k => c * k);
+
+    // Energy in eV: E = hν / e
+    const energies = frequencies.map(f => h * f / eV);
+
+    // Wavelength in cm: λ = 1/k
+    const wavelengths = waveNumbers.map(k => 1 / k);
+
+    const trace = {
+      x: waveNumbers,
+      y: frequencies,
+      type: 'scatter',
+      mode: 'lines+markers',
+      name: 'ω = c·k',
+      hovertemplate:
+        'Wavenumber: %{x:.2e} cm⁻¹<br>' +
+        'Frequency: %{y:.2e} Hz<br>' +
+        'Wavelength: %{customdata[0]:.2e} cm<br>' +
+        'Energy: %{customdata[1]:.2e} eV',
+      customdata: wavelengths.map((λ, i) => [λ, energies[i]])
+    };
+
+    const layout = {
+      xaxis: {
+        type: 'log',
+        title: 'Wavenumber (cm⁻¹)',
+        domain: [0.1, 0.9],
+        anchor: 'y'
+      },
+      yaxis: {
+        type: 'log',
+        title: 'Frequency (Hz)',
+        domain: [0.1, 0.9],
+        anchor: 'x'
+      },
+      xaxis2: {
+        type: 'log',
+        overlaying: 'x',
+        side: 'top',
+        title: 'Wavelength (cm)',
+        tickvals: [1e-5, 1e-4, 1e-3, 1e-2, 1e-1, 1e0, 1e1],
+        ticktext: ['10⁻⁵', '10⁻⁴', '10⁻³', '10⁻²', '10⁻¹', '1', '10']
+      },
+      yaxis2: {
+        type: 'log',
+        overlaying: 'y',
+        side: 'right',
+        title: 'Energy (eV)',
+        tickvals: [1e-3, 1e-2, 1e-1, 1, 10, 100],
+        ticktext: ['10⁻³', '10⁻²', '10⁻¹', '1', '10', '100']
+      },
+      margin: { t: 80 },
+      hovermode: 'closest'
+    };
+
+    Plotly.newPlot('plot', [trace], layout);
+  </script>
+</body>
+</html>
