@@ -1,16 +1,35 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-Hans-CN">
 <head>
   <meta charset="UTF-8" />
-  <title>Four-Axis Frequency-Wavenumber Chart</title>
+  <title>光能 - 量级 - 互动 - 晶体</title>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
   <style>
-    body { font-family: sans-serif; text-align: center; }
-    #plot { width: 90%; height: 90vh; margin: auto; }
+    body { font-family: STKaiti; text-align: center; margin: 0 auto; max-width: 900px; }
+    #plot { width: 100%; height: 80vh; }
+    .info {
+      background: #f8f8f8;
+      border-radius: 10px;
+      padding: 1rem;
+      margin: 1rem auto;
+      text-align: left;
+      font-size: 0.95rem;
+    }
+    .info code { background: #eee; padding: 0.2em; border-radius: 4px; }
   </style>
 </head>
 <body>
-  <h2>Frequency vs Wavenumber (with Energy and Wavelength)</h2>
+  <h2>尺度 - 空间 - 时间</h2>
+
+  <div class="info">
+    <p><strong>单位关系说明：</strong></p>
+    <ul>
+      <li>speed of bare light -- 频率与波数：<code>ν = c × k</code>，其中 <code>c ≈ 3 × 10¹⁰ cm/s</code></li>
+      <li>light energy quanta -- 能量与频率：<code>E = h × ν</code>，用 eV 表示时为 <code>E(eV) = hν / e</code></li>
+      <li>wave reciprocity -- 波长与波数：<code>λ = 1 / k</code>，单位：cm</li>
+    </ul>
+  </div>
+  
   <div id="plot"></div>
 
   <script>
@@ -36,11 +55,12 @@
       type: 'scatter',
       mode: 'lines+markers',
       name: 'ω = c·k',
+      marker: { size: 6 },
       hovertemplate:
-        'Wavenumber: %{x:.2e} cm⁻¹<br>' +
-        'Frequency: %{y:.2e} Hz<br>' +
-        'Wavelength: %{customdata[0]:.2e} cm<br>' +
-        'Energy: %{customdata[1]:.2e} eV',
+        '波数: %{x:.2e} cm⁻¹<br>' +
+        '频率: %{y:.2e} Hz<br>' +
+        '波长: %{customdata[0]:.2e} cm<br>' +
+        '能量: %{customdata[1]:.2e} eV',
       customdata: wavelengths.map((λ, i) => [λ, energies[i]])
     };
 
@@ -49,13 +69,23 @@
         type: 'log',
         title: 'Wavenumber (cm⁻¹)',
         domain: [0.1, 0.9],
-        anchor: 'y'
+        showspikes: true,
+        spikemode: 'across',
+        spikedash: 'dot',
+        spikecolor: 'gray',
+        spikethickness: 1
+        // anchor: 'y'
       },
       yaxis: {
         type: 'log',
         title: 'Frequency (Hz)',
         domain: [0.1, 0.9],
-        anchor: 'x'
+        showspikes: true,
+        spikemode: 'across',
+        spikedash: 'dot',
+        spikecolor: 'gray',
+        spikethickness: 1
+        // anchor: 'x'
       },
       xaxis2: {
         type: 'log',
@@ -73,11 +103,20 @@
         tickvals: [1e-3, 1e-2, 1e-1, 1, 10, 100],
         ticktext: ['10⁻³', '10⁻²', '10⁻¹', '1', '10', '100']
       },
-      margin: { t: 80 },
+      margin: { t: 90 },
       hovermode: 'closest'
     };
 
     Plotly.newPlot('plot', [trace], layout);
   </script>
+  
+  <div class="info">
+    <ul>
+      <li>可见光 -- 半导体带隙</li>
+      <li>光学声子 -- 红外、拉曼</li>
+      <li>等离子体频率 -- 可穿透金属的频率底线</li>
+    </ul>
+  </div>
+  
 </body>
 </html>
