@@ -33,6 +33,29 @@ date: 2025-07-04           # 可省；写了方便以后按日期排序
 
 ## Coulomb in action
 
+Dielectric function and the random-phase approximation
+
+$$\boxed{\epsilon (\omega,q) = 1 - \frac{e^2}{2\epsilon_0 q}\sum_{n,n',\vec{\mathrm{k}}}\frac{\left\vert\langle\vec{\mathrm{k}},n\vert e^{-i\vec{\mathrm{q}}\cdot\vec{\mathrm{r}}}\vert\vec{\mathrm{k}}+\vec{\mathrm{q}},n'\rangle\right\vert^2}{E_{\vec{\mathrm{k}}+\vec{\mathrm{q}},n'}-E_{\vec{\mathrm{k}},n}-\hbar\omega-i\hbar/\tau_{n,n'}}\times\left[f\left(E_{\vec{\mathrm{k}}+\vec{\mathrm{q}},n'}\right)-f\left(E_{\vec{\mathrm{k}},n}\right)\right]}$$
+
+- (3D) $\frac{4\pi e^2}{q^2}$ - (2D) $\frac{2\pi e^2}{q}$
+- (Hartree) $\frac{2\pi e^2}{q}$ - (SI) $\frac{e^2}{2\epsilon_0 q}$
+
+
+### Yukawa screening
+
+interaction with short range cut-off
+
+$v(r,\kappa)=e^2 e^{-\kappa\cdot r}/r$
+
+Fourier transform of interaction potential 
+
+$$v_q(\kappa)\equiv\int v(r,\kappa) e^{-i\vec{q}\cdot\vec{r}} d\vec{r}$$
+
+### easy exercise
+
+- Coulomb potential (2D) $V_q = \lim_{\kappa\to 0}v_q(\kappa) = \lim_{\kappa\to 0} \frac{2\pi e^2}{\sqrt{q^2+\kappa^2}} = 2\pi e^2/q$
+- Coulomb potential (3D) $V_q = \lim_{\kappa\to 0} \frac{4\pi e^2}{q^2+\kappa^2} = 4\pi e^2/q^2$
+
 ### ✦ 课本要点速记
 - Single electron, decorated with Coulomb screening potential
 - Plasma oscillations, excited by long wavelength part of Coulomb
@@ -41,13 +64,30 @@ date: 2025-07-04           # 可省；写了方便以后按日期排序
 - Debye length as the exponential decay rate for screening  
 - **RPA(随机相近似)** 推导等离子体色散：低 $q$ 区近似常数，随 $q$ 增大出现 Landau 阻尼。  
 > TODO：整理 RPA 推导步骤、Landau 阻尼物理图像  
-> TODO：查 2024 Nature Photonics 关于 SPP 在钙钛矿中的新进展
+
 
 ---
 
 ## 参考 / 扩展阅读
 - Pines, Bohm. *A Collective Description of Electron Interactions* (Phys. Rev. 1952)  
 - Maier. *Plasmonics: Fundamentals and Applications* (Springer 2007)
+
+> Gray tin (1972) : 10.1103/PhysRevB.5.397
+
+23. H. Ehrenreich and M. H. Cohen, Phys. Rev. 115, 786 (1959).
+24. P. Nozieres and D. Pines, Nuovo Cimento 9, 470 (1958).
+25. P. Nozieres and D. Pines, Phys. Rev. 109, 762 (1958).
+
+> beyond (2012) : 10.1103/PhysRevE.85.036401
+
+polarization, conductivity and structure factor
+
+> several limiting cases (2024) : 10.1016/j.jpcs.2024.112470
+
+optical, high momentum transfer, and static limits
+
+
+
 
 <!-- 可选：告诉 MathJax 我们要用 $...$ 做行内定界符 -->
 <script>
