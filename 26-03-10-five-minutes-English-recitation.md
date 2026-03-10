@@ -18,9 +18,7 @@ Just for today I will be happy. This assumes to be true what Abraham Lincoln sai
 
 Just for today I will try to strengthen my mind. I will study. I will learn something useful. I will not be a mental loafer. I will read something that requires effort, thought and concentration.
 
-Just for today I will exercise my soul in three ways: I will do somebody a good turn, and not get found out; if anybody knows of it, it will not count. I will do at
-
-least two things I don't want to do just for exercise. I will not show anyone that my feelings are hurt; they may be hurt, but today I will not show it.
+Just for today I will exercise my soul in three ways: I will do somebody a good turn, and not get found out; if anybody knows of it, it will not count. I will do at least two things I don't want to do just for exercise. I will not show anyone that my feelings are hurt; they may be hurt, but today I will not show it.
 
 Just for today I will be agreeable. I will look as well as I can, dress becomingly, keep my voice, low, be courteous, criticize not one bit. I won't find fault with anything, nor try to improve or regulate anybody but myself.
 
