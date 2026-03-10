@@ -6,29 +6,65 @@ date: 2026-03-10           # 可省；写了方便以后按日期排序
 
 # 每天五分钟 背出好英文
 
+在理解阶段，用逐小段对照（或更优的“无译文”方式）；在记忆和巩固阶段，逐步脱离译文。
+
 ## 一、活在当下
 
 ### 只为今天
 
-> JUST FOR TODAY I will try to live through this day only, and not tackle all my problems at once. I can do something for 12 hours that would appall me if I felt that I had to keep it up for a lifetime.
+Just for today I will be happy. This **assumes** to be true what Abraham Lincoln said, that "Most **folks** are as happy as they make up their minds to be."
 
-Just for today I will be happy. This assumes to be true what Abraham Lincoln said, that "Most folks are as happy as they make up their minds to be."
+就为了今天，我会很快乐。亚伯拉罕·林肯说过：“大多数人都是决定想怎么高兴就怎么高兴。”这已经被认为是真理。
 
-> Just for today I will adjust myself to what is, and not try to adjust everything to my own desires. I will take my "luck" as it comes, and fit myself to it.
+Just for today I will try to **strengthen** my mind. I will study. I will learn something useful. I will not be a **mental loafer**. I will read something that requires effort, thought and **concentration**.
 
-Just for today I will try to strengthen my mind. I will study. I will learn something useful. I will not be a mental loafer. I will read something that requires effort, thought and concentration.
+就为了今天，我会尽力心强志坚。我会学习，学一些有用的东西。我不会做一个精神上的流浪汉。我会读一些需要努力、思考和注意力集中的东西。
 
-Just for today I will exercise my soul in three ways: I will do somebody a good turn, and not get found out; if anybody knows of it, it will not count. I will do at least two things I don't want to do just for exercise. I will not show anyone that my feelings are hurt; they may be hurt, but today I will not show it.
+Just for today I will exercise my soul in three ways. I will do somebody a good turn, and not get found out. If anybody knows of it, it will not **count**. I will do at least two things I don't want to do —— just for exercise.
 
-Just for today I will be agreeable. I will look as well as I can, dress becomingly, keep my voice, low, be courteous, criticize not one bit. I won't find fault with anything, nor try to improve or regulate anybody but myself.
+就为了今天，我会用三种方法来磨练我的灵魂。我会做对某人有利的事，但不能被发现。若有人发现了就不算数。我将会做至少两件我不愿意做的事情————只为了磨练。
 
-Just for today I will have a program. I may not follow it exactly, but I will have it. I will save myself from two pests: hurry and indecision.
+Just for today I will be **agreeable**. I will look as well as I can, dress **becomingly**, talk low, act **courteously**, **criticize** not one bit and try not to improve or regulate anybody but myself.
 
-_Just for today I will have a quiet half hour all by myself, and relax. During this half hour, sometime, I will try to get a better perspective of my life._
+就为了今天，我会过得很惬意。看起来我达到了最佳状态，穿着得体，讲话谦虚，行为礼貌，一点儿不吹毛求疵，尽量改进和调节自己而不是别人。
+
+Just for today I will have a program. I may not follow it exactly, but I will have it. I will save myself from two pests: hurry and **indecision**.
+
+就为了今天，我会制订一个计划，我也许不会严格地遵守它，但我一定要有计划。我会避免两种错误：仓促行事和优柔寡断。
+
+_Just for today I will have a quiet half hour all by myself and relax. During this half hour, sometime, I will try to get a better **perspective** on my life._
+
+就为了今天，我将会独自静静地待上半小时，放松自己。在这半小时里，某个时刻，我会对我日后的生活有个更好的看法。
 
 Just for today I will be unafraid. Especially I will not be afraid to enjoy what is beautiful, and to believe that as I give to the world, so the world will give to me.
 
+就为了今天，我将不再害怕。尤其我不会再害怕享受美丽的事物，并且相信我给予世界的，世界也会给予我。
+
 ### 清晨许愿
+
+The sun is just rising in the morning of another day. What can I wish that this day may bring me? Nothing that shall make the world or others poorer, nothing at the **expense** of other men; but just those few things which in their coming do not stop me but touch me rather, as they pass and gather **strength**.
+
+朝阳又在新的一天中冉冉升起。我期许这一天带给我什么呢？我希望带给我的不是令世界或他人更贫穷的东西，不是损害别人的东西，而是那些微小的、能触动我的东西，它们经过或者不断聚集力量之时，不会妨碍我。
+
+I wish that this day could bring me a few friends, who understand me, and yet remain my friends; I also wish that this day could bring me a work to do which has real value.
+
+我希望这一天能够带给我一些惺惺相惜的朋友，希望我们友谊长存；我也希望这一天能够给我带来一份真正有价值的工作。
+
+_I wish that this day could bring me a mind unafraid to travel, even though the **trail** be not **blazed**, and I wish that this day could bring me an understanding heart._
+
+我希望这一天能够带给我无畏远行的胸怀，即使旅途没有光亮的照耀；我还希望这一天能够带给我善解人意的心。
+
+I wish that this day could bring me a **sight** of the **eternal** hills, and the blue sea **stretching** to the **horizon**, and of something beautiful which the hands of men have made.
+
+我希望看到这一天能够让我看到永恒的山岗，看到辽阔无边的蓝色海洋，看到人类的双手造就的美丽事物。
+
+I wish that this day could bring me a sense of humor, and the power to laugh, a little **leisure** with nothing to do.
+
+我希望这一天能够带给我幽默感、笑的力量和无事可做的片刻悠闲。
+
+And I **crave** for a few moments of quiet, silent **meditation** in the morining of this day.
+
+这一天的早上，我渴望片刻安静的沉思静想。
 
 ### 生活的乐趣
 
