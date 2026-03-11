@@ -10,6 +10,14 @@ date: 2026-03-10           # 可省；写了方便以后按日期排序
 
 ## 一、活在当下
 
++ ⓸ **宽，屋宽大也**。《说文》：宽，屋宽大也。后比喻心胸宽阔。《诗经·卫风·考槃》：“硕人之宽。”意思是伟岸的形象心怀宽广。
++ ⓵ **天行健，君子以自强不息**。《国语·晋语》：“重耳甚好仁而彊。”这里讲的便是申生为人很仁义，而且势力很强大。
++ ⓷ **仁，亲也。从人从二**。《孟子·公孙丑上》：以德行仁者王。依靠道德施行仁义的可以称王。
++ ⓶ **君子不重则不威**。孔子说君子不庄重就没有威严，更没有威望。威仪观的本质在礼，生命体的貌象声色、行为举止处处展现礼。
++ ⓹ **君子以容民畜众**。《尚书·君陈》：“尔无忿疾于顽。无求备与一夫。必有忍，其乃有济。有容，德乃大。
++ ⓻ **忠，敬也。从心，中声**。《韩诗外传》：“比干且死，而谏愈忠。”诗曰：“彼己之子，硕大且笃。”良非笃修身行之君子，其孰能与之哉！
++ ⓺ **彦，美士有文，人所言也**。《尔雅·释训》：“美士为彦。”意思是才徳好的男性为“彦”。
+
 ### 只为今天
 
 Just for today I will be happy. This **assumes** to be true what Abraham Lincoln said, that "Most **folks** are as happy as they make up their minds to be."
@@ -20,9 +28,9 @@ Just for today I will try to **strengthen** my mind. I will study. I will learn 
 
 就为了今天，我会尽力心强志坚。我会学习，学一些有用的东西。我不会做一个精神上的流浪汉。我会读一些需要努力、思考和注意力集中的东西。
 
-Just for today I will exercise my soul in three ways. I will do somebody a good turn, and not get found out. If anybody knows of it, it will not **count**. I will do at least two things I don't want to do —— just for exercise.
+Just for today I will exercise my soul in three ways. I will do somebody a good turn, and not get found out. If anybody knows of it, it will not **count**. I will do at least two things I don't want to do — just for exercise.
 
-就为了今天，我会用三种方法来磨练我的灵魂。我会做对某人有利的事，但不能被发现。若有人发现了就不算数。我将会做至少两件我不愿意做的事情————只为了磨练。
+就为了今天，我会用三种方法来磨练我的灵魂。我会做对某人有利的事，但不能被发现。若有人发现了就不算数。我将会做至少两件我不愿做的事情——只为了磨练。
 
 Just for today I will be **agreeable**. I will look as well as I can, dress **becomingly**, talk low, act **courteously**, **criticize** not one bit and try not to improve or regulate anybody but myself.
 
@@ -68,9 +76,35 @@ And I **crave** for a few moments of quiet, silent **meditation** in the morinin
 
 ### 生活的乐趣
 
+Joy in living comes from having fine **emotions**, trusting them, giving them the freedom of a bird in the open. _Joy in living can never be **assumed** as a pose, or put on from the outside as a mask._ People who have this joy do not need to talk about it, they **radiate** it. They just like their joy and let it **splash** its sunlight and glow into other lives as naturally as bird sings.
+
+生活的乐趣来源于良好的情绪，信赖这些情绪，并任由它们如同鸟儿高翔与天空般地自由自在。生活的乐趣是无法靠姿态摆出来的，也无法用戴上一张面具来伪装。拥有这种乐趣的人们无须挂在嘴边，他们自然会焕发出快乐的气息。他们自己生活在快乐当中，也将这样的快乐自然而然地感染着他人，犹如是鸟儿就必将歌唱。
+
+We can never get it by working for it directly. It comes, like happiness, to those who are **aiming** at something higher. _It is a **byproduct** of great, simple living._ The joy of living comes from what we put into living, not from what we seek to get from it.
+
+直接追求生活的乐趣只会使乐趣远离我们。它与幸福一样青睐胸有大志的人们。生活过得高雅、简单便会产生乐趣。它是我们对生活的投入，而非所求。
 
 ### 一切刚开始
 
+"We are reading the first **verse** of the first chapter of a book whose pages are **infinite**..."
+
+“我们正在度一本书的第一章的第一行，这本书的页数是无限的……”
+
+I do not know who wrote those words, but I have always liked them as a reminder that the future can be anything we want to make it. We can take the **mysterious**, **hazy** future and **carve** out of it anything that we can imagine, just as a **sculptor** carves a **statue** from a shapeless stone.
+
+我不知道是谁写的，可我很喜欢这句话，它提醒我们未来是由自己创造的。我们可以把神秘、不可知的未来塑造成我们想象种的任何模样，犹如雕刻家将未成形的石头刻成雕像。
+
+We are all in the position of the farmer. If we plant a good seed, we **reap** a good harvest. If our seed is poor and full of weeds, we reap a useless crop. If we plant nothing at all, we harvest nothing at all.
+
+我们每个人都像是农夫。洒下良种将有丰收，播下劣种或生满野草便将毁去收成。没有耕耘则会一无所获。
+
+_I want the future to be better than the past. I don't want it **contaminated** by the mistakes and errors with which history is filled. We should all be **concerned** about the future because that is where we will spend the remainder of our lives._
+
+我希望未来比过去更加美好，希望未来不会沾染历史的错误与过失。我们都应举目向前，因我们的余生要用未来书写。
+
+The past is gone and **static**. Nothing we can do will change it. The future is before us and **dynamic**. Everything we do will affect it. Each day brings with it new **frontiers**, in our homes and in our business, if we only **recognize** them. We are just at the beginning of the progress in every field of human **endeavor**.
+
+往昔已逝，静如止水，我们无法再做改变。而前方的未来正生机勃勃，我们所做的每一件事都将会影响着它。只要我们认识到这些，无论是在家中还是在工作上，每天我们的面前都会展现出新的天地。在人类致力开拓的每一片领域上，我们正站在进步的起跑点。
 
 ### 品味现在
 
