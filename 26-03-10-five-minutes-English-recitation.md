@@ -88,7 +88,7 @@ We can never get it by working for it directly. It comes, like happiness, to tho
 
 "We are reading the first **verse** of the first chapter of a book whose pages are **infinite**..."
 
-“我们正在度一本书的第一章的第一行，这本书的页数是无限的……”
+“我们正在读一本书的第一章的第一行，这本书的页数是无限的……”
 
 I do not know who wrote those words, but I have always liked them as a reminder that the future can be anything we want to make it. We can take the **mysterious**, **hazy** future and **carve** out of it anything that we can imagine, just as a **sculptor** carves a **statue** from a shapeless stone.
 
@@ -108,9 +108,43 @@ The past is gone and **static**. Nothing we can do will change it. The future is
 
 ### 品味现在
 
+Tucked away in our **subconsciousness** is an **idyllic** vision. We see ourselves on a long trip that **spans** the moment. We are traveling by train. Out the windows, we drink on the passing scene of cars on nearby highways, of children waving at a crossing, of cattle **grazing** on a distant hillside, of smoke pouring from a power plant, of row upon row of corn and wheat, of flatlands and valleys, of mountains and **rolling** hillsides, of city **skylines** and village halls.
+
+我们的潜意识里藏着一派田园诗般的风光！我们仿佛身处一次横贯大陆的漫漫旅程之中！乘着火车，我们领略着窗外流动的景色：附近高速公路上奔驰的汽车、十字路口处招手的孩童、远山上吃草的牛群、源源不断地从电厂排放出的烟尘、一片片的玉米和小麦、平原与山谷、群山与绵延的丘陵、天空映衬下城市的轮廓，以及乡间的庄园宅第！
+
+But **uppermost** in our minds is the final destination. On a certain day at a certain hour, we will pull into the station.
+
+然而我们心里想得最多的却是最终的目的地！在某一天的某一时刻，我们将抵达进站！
+
+The true joy of life is the trip. The station is only a dream. It constantly **outdistances** us. _It isn't the burdens of today that drive men mad. It is the regrets over yesterday and the fear of tomorrow._ Regret and fear are twin thieves who rob us of today.
+
+生活的真正乐趣在于旅行的过程，而车站不过是个梦，它始终遥遥领先于我们！真正令人发疯的不是今日的负担，而是对昨日的悔恨及对明日的恐惧！悔恨与恐惧是一对孪生窃贼，将今天从你我身边偷走！
+
+So stop pacing the **aisles** and counting the miles. Instead, climb more mountains, eat more ice cream, go **barefoot** more often, swim more rivers, watch more sunsets, laugh more, cry less. Life must be lived as we go along. The station will come soon enough.
+
+那么就不要在过道里徘徊吧，别老惦记着你离车站还有多远！何不换一种活法，爬更多的高山，多吃点儿冰激凌甜甜嘴巴，经常光着脚板儿溜达，在更多的河流里畅游，多看看夕阳西下，多点儿欢笑，少点儿泪水！生活得一边过一边瞧！车站就会很快到达！
 
 ### 热爱生活
 
+However mean your life is, meet it and live it. Do not **shun** it and call it hard names.
+
+无论你的生活如何卑贱，你要面对它生活，不用躲避它，更别用恶言咒骂它。
+
+It is not so bad as you are. It looks poorest when you are richest. The fault-finder will find faults in **paradise**.
+
+它不像你那样坏。你最富有的时候，倒是看似最穷。爱找缺点的人就是到天堂里也能找到缺点。
+
+_Love your life, poor as it is. You may perhaps have some pleasant, **thrilling**, **glorious** hours, even in a poor-house._ The setting sun is **reflected** from the windows of the **almshouse** as brightly as from the rich man's **abode**; the snow **melts** before its door as early in the spring. I do not see but a quiet mind may live as **contentedly** there, and have as cheering thoughts, as in a **palace**.
+
+你要爱你的生活，尽管它贫穷。甚至在一个济贫院里，你也还有愉快、高兴、光荣的时候。夕阳反射在济贫院的窗上，像身在富户人家窗上一样光亮；在那门前，积雪同在早春融化。我只看到，一个从容的人，在哪里都像在皇宫一样，生活得心满意足而很愉快。
+
+The town's poor seem to me often to live the most independent lives of any. Maybe they are simply great enough to receive without **misgiving**. Most think that they are above being supported by the town; but it often happens that they are not above supporting themselves by dishonest means, which should be more **disreputable**.
+
+在我看来，城镇中的穷人倒往往是过着最独立不羁的生活。也许因为他们很伟大，所以受之无愧。大多数人以为他们是超然的，不靠城镇来支援他们；可是事实上他们是往往利用了不正当的手段来对付生活，他们是声名狼藉的。
+
+**Cultivate** poverty like a garden **herb**, like **sage**. Do not trouble yourself much to get new things, whether clothes or friends. Turn the old, return to them. Things do not change, we change. Sell your chloths and keep your thoughts.
+
+视贫穷如园中之花而像圣人一样耕植它吧！不要找新的花样，无论是新的朋友或新的衣服，来麻烦你自己。找旧的，回到那里去。万物不变，是我们在变。你的衣服可以卖掉，但要保留你的思想。
 
 ### 每一天都是全新的开始
 
