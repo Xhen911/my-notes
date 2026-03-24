@@ -16,7 +16,7 @@ date: 2026-03-10           # 可省；写了方便以后按日期排序
 + ⓶ **君子不重则不威**。孔子说君子不庄重就没有威严，更没有威望。威仪观的本质在礼，生命体的貌象声色、行为举止处处展现礼。
 + ⓹ **君子以容民畜众**。《尚书·君陈》：“尔无忿疾于顽。无求备与一夫。必有忍，其乃有济。有容，德乃大。
 + ⓻ **忠，敬也。从心，中声**。《韩诗外传》：“比干且死，而谏愈忠。”诗曰：“彼己之子，硕大且笃。”良非笃修身行之君子，其孰能与之哉！
-+ ⓺ **彦，美士有文，人所言也**。《尔雅·释训》：“美士为彦。”意思是才徳好的男性为“彦”。
++ ⓺ **彦，美士有文，人所言也**。《尔雅·释训》：“美士为彦。”意思是才德好的男性为“彦”。
 
 ### 只为今天
 
@@ -148,6 +148,33 @@ The town's poor seem to me often to live the most independent lives of any. Mayb
 
 ### 每一天都是全新的开始
 
+It doesn't have to be January 1st to give yourself a chance to make the most out of your day — and your life. Every day is a new day and a fresh start to learn, grow, develop your strengths, **heal** yourself from past regrets or hurts, and **move forward** older and wiser. Every day gives you a chance to **reinvent** yourself, to **fine-tune** who you are, and build on lessons of what you have learned. It is never too late to change things that are not working in your life.
+
+不一定非得要在1月1日才有机会最大限度地利用你的每一天，其实每一天都是一个全新的开始，让我们去学习、成长、发展自己的能力，让自己从过去的悔恨和伤痛中痊愈，变得更加老练和睿智。每一天，我们都有机会根据以前所学的知识来改造和调整自己。今天试着去改变生活中那些无益的事情，永远都不会太晚。
+
+Every day is a new beginning and a blank **slate**. How would you like to create your day? Think of it as a blank **canvas** — what would you like to paint on it. What can you create? If you **wake up** in a negative mindset, you are more likely to paint a dark picture throughout the day, and your canvas will not reflect hope, happiness and joy.
+
+每一天都是一个全新的开始，就像一张白纸。你想怎么度过你的每一天？把它想象成一匹白色的布——你想在上面画上什么，你能实现什么？如果你消极地醒来，很大可能就会让这一整天都蒙上深色的基调，而你的画布上也不会体现出希望、幸福和喜悦。
+
+If you take each day to think positively, and have a positive **intention** for how you would like to create your day, how would your life be different? What positive outcome can reflect your positive intention?
+
+如果你积极地看待每一天，对于如何度过每一天都有积极的想法，那么你的生命会有什么不同？你的正面想法又会有什么样的好结果？
+
+**Visualizing** how you would like your day will help **release** positive energy from within you and you will attract more positive energy from those around you.
+
+在脑海里构想下你的一天，能让你释放正面能量，你也能够从你的周边吸取更多的正面能量。
+
+_With a **focus on** positive intentions, you feel more **enpowered** and more like a "victor" than a "victim"._
+
+保持积极的心态，你会感到力量无穷，更像一个胜利者而不是一个受害者。
+
+You are more mindful of the present, and will be more likely to live fully in the present each moment of each day. After all, the past is a great place to visit, but your don't want to live there!
+
+活在当下，就更有可能充实地过好现在的每一天。毕竟，过去只是一个回忆的好地方，而你不会想生活在过去！
+
+So how about starting each day taking a moment to think of a positive intention for the day? Each morning, **write** it **down** and reflect each evening on how you did!
+
+所以为何不在每天伊始的时候，花一点儿时间思考一下今天可做的事呢？每天早上都把自己的目标写下来，每天晚上反思你所做的！
 
 ### 三种激情
 
