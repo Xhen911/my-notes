@@ -168,7 +168,7 @@ _With a **focus on** positive intentions, you feel more **enpowered** and more l
 
 保持积极的心态，你会感到力量无穷，更像一个胜利者而不是一个受害者。
 
-You are more mindful of the present, and will be more likely to live fully in the present each moment of each day. After all, the past is a great place to visit, but your don't want to live there!
+You are more mindful of the present, and will be more likely to live fully in the present each moment of each day. After all, the past is a great place to visit, but you don't want to live there!
 
 活在当下，就更有可能充实地过好现在的每一天。毕竟，过去只是一个回忆的好地方，而你不会想生活在过去！
 
@@ -178,6 +178,9 @@ So how about starting each day taking a moment to think of a positive intention 
 
 ### 三种激情
 
+_Three passions, simple but **overwhelmingly** strong, have **governed** my life: the **longing for** love, the search for knowledge, and **unbearable** pity for the suffering of mankind._ These passions, like great winds, have blown me **hither and thither**, in a wayward course, over a deep ocean of **anguish**, reaching to the very **verge** of **despair**.
+
+三种质朴而又十分强烈的激情一直都支配着我的人生：对爱的渴望、对知识的求索和对人类苦难的无限怜悯。这三种激情，有如狂飙挟我四海漂泊，游移不定，直至苦海的深渊，濒临绝望的边缘。
 
 ### 女人之美
 
