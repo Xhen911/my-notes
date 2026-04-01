@@ -182,6 +182,11 @@ _Three passions, simple but **overwhelmingly** strong, have **governed** my life
 
 三种质朴而又十分强烈的激情一直都支配着我的人生：对爱的渴望、对知识的求索和对人类苦难的无限怜悯。这三种激情，有如狂飙挟我四海漂泊，游移不定，直至苦海的深渊，濒临绝望的边缘。
 
+I have sought love, first, because love brings me **ecstasy** — ecstasy so great that I would often have **sacrificed** all the rest of life for a few hours of this joy. I have sought it, next because it **relieves** loneliness — that terrible loneliness in which one **shivering** consciousness looks over the rim of the world into the cold **unfathomable** lifeless **abyss**. I have sought it, finally, because in the union of love I have seen, in a mystic **miniature**, the **prefiguring** vision of the heaven that saints and poets have imaged. This is what I sought, and though it might seem too good for human life, this is what — at last — I have found.
+
+我寻求爱，首先在于爱能够带来狂喜——它是如此令人心醉神迷，我愿舍弃余生来换取这片刻的欢乐；我寻求爱，还因为爱能消除孤独——那种当一个颤抖的灵魂从世界的边缘透视那冰冷、荒凉的无尽深渊时感到的那种孤独；此外，我所以寻求爱，还因为在爱的交融中，我看见了圣者和诗人所预想的天堂景象的神秘缩影。这正是我心中之所求，虽然人生似乎难臻此境，我最终却不负所求。
+
+
 ### 女人之美
 
 
