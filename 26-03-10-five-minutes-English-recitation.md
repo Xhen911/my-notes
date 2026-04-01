@@ -186,6 +186,10 @@ I have sought love, first, because love brings me **ecstasy** — ecstasy so gre
 
 我寻求爱，首先在于爱能够带来狂喜——它是如此令人心醉神迷，我愿舍弃余生来换取这片刻的欢乐；我寻求爱，还因为爱能消除孤独——那种当一个颤抖的灵魂从世界的边缘透视那冰冷、荒凉的无尽深渊时感到的那种孤独；此外，我所以寻求爱，还因为在爱的交融中，我看见了圣者和诗人所预想的天堂景象的神秘缩影。这正是我心中之所求，虽然人生似乎难臻此境，我最终却不负所求。
 
+With equal passion I have sought knowledge. I have wished to understand the hearts of men. I have wished to know why the stars shine. And I have tried to apprehend the Pythagorean power by which number holds sway above the **flux**. A little of this, but not much, I have achieved.
+
+我怀着同样的激情来探索知识。我希望能够理解众人之心，我渴望了解星星缘何闪光。我也曾努力领会毕达哥拉斯赋予数的力量——主宰万物流变之力。我虽未创斐然之绩，却也还算小有所成。
+
 
 ### 女人之美
 
