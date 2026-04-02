@@ -190,6 +190,13 @@ With equal passion I have sought knowledge. I have wished to understand the hear
 
 我怀着同样的激情来探索知识。我希望能够理解众人之心，我渴望了解星星缘何闪光。我也曾努力领会毕达哥拉斯赋予数的力量——主宰万物流变之力。我虽未创斐然之绩，却也还算小有所成。
 
+Love and knowledge, so far as they were possible, led upward toward the heavens. But always pity brought me back to earth. **Echoes** of cries of pain **reverberate** in my heart. Children in **famine**, victims tortured by oppressors, helpless old people a hated burden to their sons, and the whole world of loneliness, poverty, and pain make a **mockery** of what human life should be. I long to **alleviate** the evil, but I cannot, and I too suffer.
+
+爱和知识竭力引导我超凡入圣，但怜悯又把我拉回了凡尘。声声悲号在我心中回响不绝。饥饿的孩子、惨遭压迫者折磨的苦难者、因依附儿子而被视为可憎重负的老年人以及整个孤独、贫困和痛苦的世界都是对人们理想人生的嘲讽。我渴望减轻罪恶，却又无能为力，我也同样感到痛苦。
+
+This have been my life. I have found it worth living, and would glady live it again if the chance were offered to me.
+
+这就是我的人生。我觉得自己并未虚度此生，若有可能，我将欣然再一次度过如此人生。
 
 ### 女人之美
 
