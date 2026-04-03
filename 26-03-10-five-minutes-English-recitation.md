@@ -200,8 +200,27 @@ This have been my life. I have found it worth living, and would glady live it ag
 
 ### 女人之美
 
+The beauty of a woman, Isn't in the clothes she wears, The **figure** that she carries, Or the way she **combs** her hair.
+
+女人之美，不在其华衣锦裳，不在其婀娜多姿，也不在其挽髻之法。
+
+The beauty of a woman, Must be seen from in her eyes, Because that's the **doorway** to her heart, The place where love **resides**.
+
+女人之美，必定是透自双眸，因为那是心灵之窗，那是爱驻留之处。
+
+The beauty of a woman, Isn't in a facial **mole**, But true beauty in a woman, Is **reflected** by her soul.
+
+女人之美，并非藏于美人痣，女人真正的美丽，发自灵魂的深处。
+
+It's the caring that she cares to give, The **passion** that she shows, And the beauty of a woman, With passing years only grows.
+
+是她给予的关怀，是她展现的激情。女人之美，日久弥增。
 
 ### 塑造我儿
+
+Build me a son, OLord, who will be strong enough to know when he is weak, and brave enough to face himself when he is afraid; one who will be proud and **unbending** in honest defeat, and **humble** and gentle in victory.
+
+主啊，求你塑造我的儿子，使他足够坚强，可以认识到自己的软弱，使他足够勇敢，直面恐惧，使他成为一个胜不骄、败不馁的人。
 
 ### 让每一天都过得有价值
 
