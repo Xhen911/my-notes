@@ -234,7 +234,19 @@ Build me a son whose heart will be clear, whose goal will be high; a son who wil
 
 求你塑造我的儿子，使他心灵纯洁，目标远大；使他在指挥别人之前，懂得先驾驭自己；让他知道去欢笑，也不要忘记如何哭泣；让他满怀理想，也永远不要忘记过去。
 
+And after all these things are his, add, I pray, enough of a sense of humor, so that he may always be serious, yet never take himself too seriously. _Give him **humility**, so that he may always remember the **simplicity** of true greatness, the open mind of true wisdom and the **meekness** of true strength._
+
+当他拥有了以上一切，我还要祈求赐他足够的幽默感，使他能认真严肃，却不致过分苛求自己。恳求您赐他谦卑，使他永远牢记，真伟大中之平凡，真智慧中之豁达，真勇猛中之温柔。
+
+Then I, his father, will dare to whisper, "I have not lived in vain."
+
+如此，我这做父亲的，才敢低声说，“我没有虚度此生。”
+
 ### 让每一天都过得有价值
+
+Sometimes people come into your life and you know right away they **were meant to** be there, to serve some sort of purpose, teach you a lesson, or to help you **figure out** who you are or who you want to become. You never know who these people maybe, but when you lock eyes with them you know at that very moment they will affect your life in some **profound** way.
+
+有时候，一些人进入你的生命，你马上知道他们是注定要出现的，他们的到来是为了达成某种目的，给你提供教益，帮助你认清自己以及自己想要成为怎样的人。你不会知道这些人是谁，可当你的目光锁定他们的那一刻，你就知道他们会给你的生命带来深远的影响。
 
 ---
 
