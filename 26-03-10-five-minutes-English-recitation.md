@@ -222,6 +222,18 @@ Build me a son, OLord, who will be strong enough to know when he is weak, and br
 
 主啊，求你塑造我的儿子，使他足够坚强，可以认识到自己的软弱，使他足够勇敢，直面恐惧，使他成为一个胜不骄、败不馁的人。
 
+Build me a son whose wishbone will not be where his backbone should be; a son that know **Thee** and that to know himself is the foundation stone of knowledge.
+
+恳求你塑造我的儿子，使他不致空有理想而缺乏毅力，引导他认识你，同时又明白，认识自我乃是真知的基石。
+
+Lead him, I pray, not in the path of ease and comfort, but under the stress and **spur** of difficulties and challenge. Here let him learn to stand up in the storm; here let him learn compassion for those who fail.
+
+我祈祷，愿你引导他不求安逸舒适，而把他置于压力、艰难和挑战的激励之下，学会在风暴中挺身站立，学会怜恤那些失败的人。
+
+Build me a son whose heart will be clear, whose goal will be high; a son who will **master** himself before he will master other men; one who will learn to laugh, yet never forget how to **weep**; one who will reach the future, yet never forget the past.
+
+求你塑造我的儿子，使他心灵纯洁，目标远大；使他在指挥别人之前，懂得先驾驭自己；让他知道去欢笑，也不要忘记如何哭泣；让他满怀理想，也永远不要忘记过去。
+
 ### 让每一天都过得有价值
 
 ---
