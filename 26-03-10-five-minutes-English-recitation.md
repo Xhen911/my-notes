@@ -248,6 +248,22 @@ Sometimes people come into your life and you know right away they **were meant t
 
 有时候，一些人进入你的生命，你马上知道他们是注定要出现的，他们的到来是为了达成某种目的，给你提供教益，帮助你认清自己以及自己想要成为怎样的人。你不会知道这些人是谁，可当你的目光锁定他们的那一刻，你就知道他们会给你的生命带来深远的影响。
 
+And sometimes things happen to you that may seem **horrible**, painful and unfair at first, but in reflection you find that without **overcoming** those obstacles you would have never realized your **potential**, strength, **willpower**, or heart. Nothing happens by chance or **by means of** good luck.
+
+有时候起先发生在你身上的事情看似可怕、痛苦和不公平，但仔细一想，你就会发现，如果不克服这些障碍，你就不会意识到自己的潜能、力量、异质和决心。没有事情是偶然出现或运气使然。
+
+Illness, injury, love, lost moments of true greatness, and **sheer** stupidity all occur to test the limits of your soul. Without these small tests, whatever they may be, life would be like a smoothly paved, straight, flat road to nowhere. It would be safe and comfortable, but dull and **utterly** **pointless**.
+
+疾病、伤痛、爱情、与成功失之交臂，以及彻彻底底的糊涂犯错，这些都是你对精神极限的考验。无论这些小小的考验是什么，没有了它们，生活就像是一条不知道通往何处的平坦大道，纵然安全舒适，却了然无趣、毫无意义。
+
+The people you meet who affect your life and the success and **downfalls** you experience, help to create who you are and who you become. _Appreciate every moment and take from those moments everything you possibly can for you may never be able to experience it again._ You can make of your life anything you wish.
+
+你所遇到的影响你一生的人，你所经历的成功与失败，都有助于塑造和成就你的人生。珍惜生命中的每一刻，并尽你所能地从中取得收获，因为你不会有从头再来的可能。你可以做任何想做的事来塑造你的人生。
+
+Create your own life and then go out and live it with absolutely no regrets.
+
+创造你自己的人生，并无怨无悔地去过这一生吧。
+
 ---
 
 ## 二、青春向上
