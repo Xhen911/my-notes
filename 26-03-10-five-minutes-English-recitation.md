@@ -269,6 +269,31 @@ Create your own life and then go out and live it with absolutely no regrets.
 ## 二、青春向上
 
 ### 回来吧，青春
+
+It was New Year's night. An aged man was standing at a window. He raised his **mournful** eyes towards the deep blue sky, where the stars were **floating** like white lilies on the surface of a clear **calm** lake. When he cast them on the earth, where few more hopeless people than himself now moved towards their certain goal — the tomb.
+
+这是新年的夜晚。一位老人站在窗边，忧伤的眼睛眺望着深蓝的天空，空中的繁星犹如漂浮在清澈如镜的湖面上的朵朵百合。他慢慢将目光投向地面，此刻，没有什么人比他还绝望，迈向他最终的归宿——坟墓。
+
+The days of his youth appeared like dreams before him, and he **recalled** the serious moment. When his father placed him at the entrance of the two roads — one leading to a **peaceful**, sunny place, covered with flowers; the other leading to a deep, dark cave, which was endless, where poison flowed instead of water and where **devils** and **poisonous** snakes hissed and **crawled**.
+
+年轻岁月，如梦般展现在他面前，老人想起父亲把他带到岔路口的那个庄严时刻——一条路通向安宁、阳光的地方，鲜花遍布；另一条路则通向幽深黑暗、没有尽头的洞穴，洞内流淌着的不是水而是毒液，群魔乱舞，毒蛇嘶嘶爬动。
+
+He looked towards the sky and cried painfully, "Oh youth, return!" But both his father and the days of his youth have **passed away**.
+
+他仰望星空，痛苦的大喊：“啊，青春，回来吧！”但是，他的父亲和青春岁月都已经一去不复返了。
+
+The clock in the high church tower struck and the sound made him remember his parents' early love for him. They had taught him and prayed to God for his good. But he has chose the wrong way. His darkened eyes were full of tears, and with a despairing effort, he burst out a cry: "Come back, my early days, come back!"
+
+高高的教堂钟楼传来敲钟声，这声音使他记起他父母早年对他的疼爱。他们教育他，为他祈祷。然而，他却选择了错误的道路。黯淡的双眼布满了泪水，他绝望地撕声大呼：“回来吧，我的往昔！回来吧！”
+
+And his youth did return, for all this was only a dream, which he $\color{crimson}\text{had}$ had on New Year's night. He was still young though his faults were real; he had not yet entered the deep, dark cave and he was still free to walk on the road which leads to the peaceful and sunny land.
+
+他的青春真的回来了，所有这些只是一个梦，一个他在新年之夜所做的梦。他仍然年轻，虽然他犯的错误是真实的；他尚未走入那幽深黑暗的洞穴，还有自由选择通向安宁，阳光的道路。
+
+_Those who still **linger on** the entrance of life, **hesitating** to choose the bright road, remember that when years are passed and your feet **stumble** on the dark mountains, you will cry bitterly,_ but **in vain**. _"Oh, youth, return!_ Oh, give me back my early days!"
+
+仍在人生路口徘徊，仍在为是否应当选择光明坦途而犹豫不决的人们啊，请记住：当青春不再，当你的双脚在黑暗的山岭间跌绊时，你会痛苦地呼喊“啊，青春，回来吧！啊，还给我往昔吧！”此时，一切已是徒劳。
+
 ### 我有一个梦想（节选）
 ### 勇气
 ### 跟着感觉走
