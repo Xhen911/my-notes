@@ -295,6 +295,39 @@ _Those who still **linger on** the entrance of life, **hesitating** to choose th
 仍在人生路口徘徊，仍在为是否应当选择光明坦途而犹豫不决的人们啊，请记住：当青春不再，当你的双脚在黑暗的山岭间跌绊时，你会痛苦地呼喊“啊，青春，回来吧！啊，还给我往昔吧！”此时，一切已是徒劳。
 
 ### 我有一个梦想（节选）
+
+I have a dream that one day every valley shall be **exalted**, and every hill and mountain shall be made low, the rough places will be made plain and the **crooked** places will be made straight and the glory of the Lord shall be **revealed** and all flesh shall see it together.
+
+我有一个梦想，深谷弥合，高山夷平，坎坷不平的道路化为坦途，蜿蜒的道路不再曲折，上帝的光华再现，普天下生灵共谒。
+
+This is our hope, and this is the faith that I go back to the South with. _With this faith, we will be able to **hew** out the mountain of despair a stone of hope._ With this faith, we will be able to **transform** the **jangling** discords of our nation into a beautiful **symphony** of brotherhood. With this faith, we will be able to work together, to pray together, to struggle together, to go to **jail** together, to stand up for freedom together, knowing that we will be free one day.
+
+这就是我们的希望。这就是我带回南方去的信念。有了这个信念，我们就能从绝望之山开采出希望之石。有了这个信念，我们就能把这个国家嘈杂刺耳的争吵声，变为充满手足之情的悦耳交响曲。有了这个信念，我们就能一起工作，一起祈祷，一起斗争，一起入狱，一起拥护自由，因为我们知道，我们终有一天会获得自由。
+
+And this will be the day when all of God's children will be able to sing with new meaning:
+
+到了这一天，上帝所有的儿女都能以新的含义高唱这首歌：
+
+My contry 'tis of thee, sweet land of liberty, of thee I sing.
+
+我的祖国，可爱的自由之邦，我为您歌唱。
+
+Land where my fathers died, land of the Pilgrim's pride.
+
+这是我祖先终老的地方，这是早期移民自豪的地方。
+
+From every mountainside, let freedom ring!
+
+让自由之声，响彻每一座山岗。
+
+And if America is to be a great nation, this must become true.
+
+如果美国要成为伟大的国家，这一点必须实现。
+
+And so let freedom ring from the **prodigious** hilltops of New Hampshire.
+
+因此，让自由之声响彻新罕布什尔的巍峨高峰！
+
 ### 勇气
 ### 跟着感觉走
 ### 做你想做的梦
