@@ -329,6 +329,23 @@ And so let freedom ring from the **prodigious** hilltops of New Hampshire.
 因此，让自由之声响彻新罕布什尔的巍峨高峰！
 
 ### 勇气
+
+The courage of life is often a less dramatic **spectacle** than the courage of a final moment, but it is no less a **magnificent** mixture of **triumph** and **tragedy**. A man does what he must — **in spite of** personal **consequences**, in spite of obstacles and dangers and pressures — and that is the basis of all human **morality**.
+
+日常生活中的勇气往往不像最后时刻的勇气那样辉煌壮观，但它依然算得上是一个悲喜交加的非凡的混合体。无论个人结果怎样，无论要经历多少阻碍、危险和压力，一个人必须做他该做的事情，这是一切人类道德的基础。
+
+To be courage requires no exceptional **qualifications**, no magic **formula**, no special combination of time, place and circumstance. It is an opportunity that sooner or later is presented to us all.
+
+做到勇敢，并不需要非凡的资质，也无须特定的方法，以及特定的时间、地点和环境。它只是一个迟早都会出现在我们所有人面前的机会。
+
+Politics merely **furnishes** one arena which imposes special tests of courage. _In whatever **arena** of life one may meet challenge of courage_, whatever may be the sacrifices he faces if he follows his conscience — the loss of his friends, his fortune, his contentment, even the esteem of his fellow men — each man must decide for himself the course he will follow.
+
+政治不过是提供了一个舞台，在这个舞台上能够对勇气进行特殊的测试。无论是在人生的哪一个舞台上，我们都有可能遇见挑战，如果他循规蹈矩的话，任何牺牲都有可能是他所要面对的——失去朋友，失去运气，失去知己，甚至失去同胞的尊重——每一个人都必须决定自己将要走的路。
+
+The stories of past courage can define that **ingredient** — they can teach, they can offer hope, they can provide **inspiration**. But they cannot supply courage itself. For this each man must look into his own soul.
+
+所有昔日关于勇气的故事能够详细界定勇敢的因素——这些故事可以教育我们，可以给予我们希望，也可以激励我们。但是他们无法为我们提供勇气。正因为如此，每个人都必须审视自己的灵魂。
+
 ### 跟着感觉走
 ### 做你想做的梦
 ### 青春
